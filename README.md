@@ -11,8 +11,10 @@ This example is primarily intended to demonstrate the library's basic capabiliti
 
 # How to use
 
-1. Before running the project, your project must contain a .venv virtual environment, which will be needed to install the required components. If you don’t have a virtual environment, create one using the command: python -m venv .venv 
+1. Before running the project, your project must contain a .venv virtual environment, which will be needed to install the required components. If you don’t have a virtual environment, create one using the command: python -m venv .venv
+
 2. Now you need to install the package itself for the module (library) to work correctly. You can do this with the command: `pip install customtkinter`, or on macOS: `pip3 install customtkinter`.
+
 3. You can now run the script with the command: `python your_script_name` or `python3 your_script_name`—on macOS and Linux.
 
 
