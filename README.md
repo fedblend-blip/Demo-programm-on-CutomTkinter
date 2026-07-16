@@ -8,6 +8,8 @@ This example is primarily intended to demonstrate the library's basic capabiliti
 # Screenshots
 <img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/f2653a0c-8af6-4e1e-8dc1-2ed065940e6e" />
 <img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/e6353b55-e384-4393-b7ed-4b818dfff5d2" />
+<img width="452" height="577" alt="image" src="https://github.com/user-attachments/assets/74c58c17-2783-40e3-a8c2-c1ba4287f9e2" />
+
 
 # How to use
 
